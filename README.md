@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sowlomonn
+- 👋 Hi, I’m SOLOMON
 - 👀 I’m interested in Artificial intellgence
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on meaningfull projects
